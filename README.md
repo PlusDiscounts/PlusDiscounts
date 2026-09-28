@@ -18,7 +18,7 @@ We present software offers in a clear, structured format with practical informat
 
 Visit **PlusDiscounts**:
 
-https://plusdiscounts.blogspot.com/
+https://www.plusdiscounts.net
 
 ## About This GitHub Profile
 
