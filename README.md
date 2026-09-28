@@ -4,14 +4,14 @@
 
 PlusDiscounts is an independent software-focused website covering current offers, license options, pricing details, supported platforms, and product information from software vendors.
 
-Our goal is to present software offers in a clear and structured format so visitors can understand what is available before making a purchase decision.
+We present software offers in a clear, structured format with practical information about pricing, licenses, platforms, and purchase options.
 
 ## What We Publish
 
 - Software deals and license discounts
 - Product and pricing information
 - Vendor-focused pages
-- Software comparisons and product research
+- Software comparisons and product information
 - Purchase-related details and available license options
 
 ## Website
